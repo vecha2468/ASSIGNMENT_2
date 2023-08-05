@@ -1,0 +1,24 @@
+.Myprofile
+{
+    display: flex;
+    justify-content: space-between;
+}
+.Myposts
+{
+    width:70vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.complete
+{
+    background-color: bisque;  
+}
+.Details
+{
+    display: flex;
+    flex-direction: column;
+    margin-right:14vw;
+    max-height: 500px;
+    justify-content: space-between;
+}

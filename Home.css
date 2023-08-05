@@ -1,0 +1,18 @@
+.Home {
+    height: calc(100vh);
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://images.pexels.com/photos/768473/pexels-photo-768473.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-size: cover;
+  }
+  .Content
+  {
+text-align: center;
+margin-top: 120px;
+font-size: 100px;
+ font-weight: 400;
+ font-style: italic;
+ color: darkolivegreen
+  }

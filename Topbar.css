@@ -1,0 +1,27 @@
+.TOPBAR{
+    display:flex;
+    flex-direction: row;
+   justify-content: space-around;
+   height:40px;
+   background-color: rgb(216, 133, 31);
+   align-items:center;
+}
+
+.topRight{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+
+}
+button
+{
+    background-color: Red;
+    margin-left: 10px;
+    width:100px;
+    height:30px;
+    border-radius: 8px;
+    color: aliceblue;
+    border-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
